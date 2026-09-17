@@ -1,62 +1,58 @@
 public class FuzzySearch {
 
-    public static int editDistance(
-            String a,
-            String b) {
+    // Module 3: Wagner-Fischer Edit Distance
+    // Time: O(n*m)
+    public static int editDistance(String a, String b) {
+        int[][] dp = new int[a.length() + 1][b.length() + 1];
 
-        int n = a.length();
-        int m = b.length();
+        for (int i = 0; i <= a.length(); i++) dp[i][0] = i;
+        for (int j = 0; j <= b.length(); j++) dp[0][j] = j;
 
-        int[][] dp =
-                new int[n + 1][m + 1];
+        for (int i = 1; i <= a.length(); i++) {
+            for (int j = 1; j <= b.length(); j++) {
 
-        for (int i = 0; i <= n; i++) {
+                int cost = (a.charAt(i - 1) == b.charAt(j - 1))
+                        ? 0 : 1;
 
-            dp[i][0] = i;
-        }
+                int insert = dp[i][j - 1] + 1;
+                int delete = dp[i - 1][j] + 1;
+                int replace = dp[i - 1][j - 1] + cost;
 
-        for (int j = 0; j <= m; j++) {
-
-            dp[0][j] = j;
-        }
-
-        for (int i = 1; i <= n; i++) {
-
-            for (int j = 1; j <= m; j++) {
-
-                if (
-                        a.charAt(i - 1)
-                                ==
-                        b.charAt(j - 1)
-                ) {
-
-                    dp[i][j] =
-                            dp[i - 1][j - 1];
-
-                } else {
-
-                    int insert =
-                            dp[i][j - 1];
-
-                    int delete =
-                            dp[i - 1][j];
-
-                    int replace =
-                            dp[i - 1][j - 1];
-
-                    dp[i][j] =
-                            1 +
-                            Math.min(
-                                    insert,
-                                    Math.min(
-                                            delete,
-                                            replace
-                                    )
-                            );
-                }
+                dp[i][j] = Math.min(insert,
+                        Math.min(delete, replace));
             }
         }
 
-        return dp[n][m];
+        return dp[a.length()][b.length()];
+    }
+
+    public static void search(String query, Paper[] papers) {
+        System.out.println("\nFUZZY SEARCH - WAGNER-FISCHER");
+
+        int best = Integer.MAX_VALUE;
+        Paper bestPaper = null;
+
+        for (int i = 0; i < papers.length; i++) {
+            int d = editDistance(
+                query.toLowerCase(),
+                papers[i].getTitle().toLowerCase()
+            );
+
+            System.out.println(
+                papers[i].getTitle() +
+                " -> distance = " + d
+            );
+
+            if (d < best) {
+                best = d;
+                bestPaper = papers[i];
+            }
+        }
+
+        if (bestPaper != null) {
+            System.out.println("\nClosest paper:");
+            bestPaper.display();
+        }
     }
 }
+
