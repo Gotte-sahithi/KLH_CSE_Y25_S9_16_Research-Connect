@@ -1,0 +1,12 @@
+paper_id=RC00077
+title=Pattern Matching in Research Databases
+author=Arjun Kumar
+publication_year=2026
+research_domain=Internet of Things
+keywords=text processing;pattern;matching;retrieval
+status=published
+citation_count=248
+language=English
+document_type=Journal
+query_terms=research;search;pattern;matching;algorithm;keyword
+indexed_terms=research connect;string search;pattern matching;document retrieval

@@ -1,0 +1,12 @@
+paper_id=RC00066
+title=Text Retrieval with Indexed Metadata
+author=Neha Reddy
+publication_year=2021
+research_domain=Natural Language Processing
+keywords=keyword search;document retrieval;text indexing
+status=published
+citation_count=105
+language=English
+document_type=Journal
+query_terms=research;search;pattern;matching;algorithm;keyword
+indexed_terms=research connect;string search;pattern matching;document retrieval

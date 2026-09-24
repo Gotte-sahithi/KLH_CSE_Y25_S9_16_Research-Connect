@@ -1,0 +1,12 @@
+paper_id=RC00070
+title=Efficient Search over Research Corpora
+author=Ishita Das
+publication_year=2022
+research_domain=Software Engineering
+keywords=academic search;metadata;document;query
+status=under_review
+citation_count=157
+language=English
+document_type=Journal
+query_terms=research;search;pattern;matching;algorithm;keyword
+indexed_terms=research connect;string search;pattern matching;document retrieval
