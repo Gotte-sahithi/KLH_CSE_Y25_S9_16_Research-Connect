@@ -1,0 +1,12 @@
+paper_id=RC00088
+title=Fast Document Retrieval Using String Algorithms
+author=Meera Iyer
+publication_year=2022
+research_domain=Cloud Computing
+keywords=Rabin Karp;rolling hash;text search;documents
+status=published
+citation_count=140
+language=English
+document_type=Conference
+query_terms=research;search;pattern;matching;algorithm;keyword
+indexed_terms=research connect;string search;pattern matching;document retrieval
