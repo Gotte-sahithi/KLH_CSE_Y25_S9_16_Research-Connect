@@ -1,0 +1,12 @@
+paper_id=RC00063
+title=Pattern-Based Academic Document Search
+author=Vikram Singh
+publication_year=2018
+research_domain=Data Science
+keywords=pattern matching;string search;research;algorithm
+status=published
+citation_count=66
+language=Hindi
+document_type=Journal
+query_terms=research;search;pattern;matching;algorithm;keyword
+indexed_terms=research connect;string search;pattern matching;document retrieval

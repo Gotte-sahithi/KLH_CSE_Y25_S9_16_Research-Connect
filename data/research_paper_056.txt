@@ -1,0 +1,12 @@
+paper_id=RC00056
+title=Text Retrieval with Indexed Metadata
+author=Neha Reddy
+publication_year=2023
+research_domain=Edge Computing
+keywords=keyword search;document retrieval;text indexing
+status=published
+citation_count=226
+language=English
+document_type=Conference
+query_terms=research;search;pattern;matching;algorithm;keyword
+indexed_terms=research connect;string search;pattern matching;document retrieval

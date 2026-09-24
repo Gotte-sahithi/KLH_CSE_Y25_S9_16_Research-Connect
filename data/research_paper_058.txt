@@ -1,0 +1,12 @@
+paper_id=RC00058
+title=Fast Document Retrieval Using String Algorithms
+author=Meera Iyer
+publication_year=2019
+research_domain=Blockchain
+keywords=Rabin Karp;rolling hash;text search;documents
+status=published
+citation_count=1
+language=English
+document_type=Journal
+query_terms=research;search;pattern;matching;algorithm;keyword
+indexed_terms=research connect;string search;pattern matching;document retrieval

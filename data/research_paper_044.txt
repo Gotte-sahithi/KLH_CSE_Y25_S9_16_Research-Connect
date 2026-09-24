@@ -1,0 +1,12 @@
+paper_id=RC00044
+title=Efficient String Search for Academic Documents
+author=Priya Nair
+publication_year=2020
+research_domain=Cybersecurity
+keywords=research connect;paper search;keywords;domain
+status=published
+citation_count=70
+language=English
+document_type=Conference
+query_terms=research;search;pattern;matching;algorithm;keyword
+indexed_terms=research connect;string search;pattern matching;document retrieval

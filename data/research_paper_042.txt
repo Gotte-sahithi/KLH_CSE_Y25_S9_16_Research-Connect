@@ -1,0 +1,12 @@
+paper_id=RC00042
+title=Scalable Academic Search Systems
+author=Ananya Rao
+publication_year=2024
+research_domain=Machine Learning
+keywords=KMP;string matching;research corpus;search
+status=published
+citation_count=44
+language=English
+document_type=Journal
+query_terms=research;search;pattern;matching;algorithm;keyword
+indexed_terms=research connect;string search;pattern matching;document retrieval

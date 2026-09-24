@@ -1,0 +1,12 @@
+paper_id=RC00061
+title=Keyword Search and Text Indexing
+author=Aarav Mehta
+publication_year=2022
+research_domain=Artificial Intelligence
+keywords=suffix array;LCP;string indexing;search
+status=published
+citation_count=40
+language=English
+document_type=Journal
+query_terms=research;search;pattern;matching;algorithm;keyword
+indexed_terms=research connect;string search;pattern matching;document retrieval

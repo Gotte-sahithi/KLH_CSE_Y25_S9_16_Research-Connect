@@ -1,0 +1,12 @@
+paper_id=RC00045
+title=Research Paper Search and Metadata Indexing
+author=Rahul Sharma
+publication_year=2018
+research_domain=Computer Vision
+keywords=Z algorithm;pattern matching;keyword retrieval
+status=under_review
+citation_count=83
+language=Hindi
+document_type=Journal
+query_terms=research;search;pattern;matching;algorithm;keyword
+indexed_terms=research connect;string search;pattern matching;document retrieval
