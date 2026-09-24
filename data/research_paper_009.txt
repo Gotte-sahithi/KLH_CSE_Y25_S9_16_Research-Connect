@@ -1,0 +1,12 @@
+paper_id=RC00009
+title=Substring Search in Scholarly Collections
+author=Kiran Patel
+publication_year=2018
+research_domain=Database Systems
+keywords=substring;search;academic papers;metadata
+status=published
+citation_count=117
+language=Hindi
+document_type=Journal
+query_terms=research;search;pattern;matching;algorithm;keyword
+indexed_terms=research connect;string search;pattern matching;document retrieval

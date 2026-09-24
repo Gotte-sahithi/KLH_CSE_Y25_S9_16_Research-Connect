@@ -1,0 +1,12 @@
+paper_id=RC00032
+title=Scalable Academic Search Systems
+author=Ananya Rao
+publication_year=2026
+research_domain=Human Computer Interaction
+keywords=KMP;string matching;research corpus;search
+status=published
+citation_count=165
+language=English
+document_type=Conference
+query_terms=research;search;pattern;matching;algorithm;keyword
+indexed_terms=research connect;string search;pattern matching;document retrieval

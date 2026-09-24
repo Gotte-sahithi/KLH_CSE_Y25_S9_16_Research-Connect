@@ -1,0 +1,12 @@
+paper_id=RC00007
+title=Pattern Matching in Research Databases
+author=Arjun Kumar
+publication_year=2022
+research_domain=Distributed Systems
+keywords=text processing;pattern;matching;retrieval
+status=published
+citation_count=91
+language=English
+document_type=Journal
+query_terms=research;search;pattern;matching;algorithm;keyword
+indexed_terms=research connect;string search;pattern matching;document retrieval

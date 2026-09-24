@@ -1,0 +1,12 @@
+paper_id=RC00013
+title=Pattern-Based Academic Document Search
+author=Vikram Singh
+publication_year=2019
+research_domain=Computer Networks
+keywords=pattern matching;string search;research;algorithm
+status=published
+citation_count=169
+language=English
+document_type=Journal
+query_terms=research;search;pattern;matching;algorithm;keyword
+indexed_terms=research connect;string search;pattern matching;document retrieval

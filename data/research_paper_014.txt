@@ -1,0 +1,12 @@
+paper_id=RC00014
+title=Efficient String Search for Academic Documents
+author=Priya Nair
+publication_year=2026
+research_domain=Robotics
+keywords=research connect;paper search;keywords;domain
+status=published
+citation_count=182
+language=English
+document_type=Journal
+query_terms=research;search;pattern;matching;algorithm;keyword
+indexed_terms=research connect;string search;pattern matching;document retrieval
